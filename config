@@ -1,0 +1,16 @@
+# Default config file
+#
+#       Freaky Caller 1.0
+# Written by Shubham Vishwakarma
+#
+# Call Bomber that make multiple calls
+# to a number
+#
+# https://github.com/shubhamvis98
+#
+# Only for arm (32 bit) architectures
+# Runs only on rooted android devices
+
+PH_NO='Put phone number here'
+C_INT='Time interval between calls in seconds'
+
