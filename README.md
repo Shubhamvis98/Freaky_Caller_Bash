@@ -2,7 +2,8 @@
 
 #       FREAKY CALLER 1.0
 
-Written by Shubham Vishwakarma
+## Written by Shubham Vishwakarma
+
 https://github.com/Shubhamvis98
 
 This program is written in bash shell and compiled
