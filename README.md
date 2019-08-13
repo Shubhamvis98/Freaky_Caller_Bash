@@ -23,6 +23,7 @@ INSTRUCTION:
 * Now lock your phone
 
 [!] This program automatically wake your phone and make call
+
 [!] No need to stare at your phone
 
 That's it, it will automatically make calls to the number that is putted on config file
