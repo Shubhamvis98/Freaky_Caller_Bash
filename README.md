@@ -10,8 +10,6 @@ This program is written in bash shell
 
 [!] This program continuously make calls one after another to the given phone number in config file
 
-[!] It only runs on 32-bit arch android devices
-
 [!] It uses su privilege to make calls
 
 INSTRUCTION:
