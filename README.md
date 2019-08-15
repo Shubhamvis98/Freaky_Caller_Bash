@@ -6,7 +6,7 @@
 
 https://github.com/Shubhamvis98
 
-This program is written in bash shell and compiled
+This program is written in bash shell
 
 [!] This program continuously make calls one after another to the given phone number in config file
 
