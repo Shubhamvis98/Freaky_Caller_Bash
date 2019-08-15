@@ -51,7 +51,6 @@ then
 #
 # https://github.com/shubhamvis98
 #
-# Only for arm (32 bit) architectures
 # Works on rooted android devices
 
 PH_NO='Put phone number here'
