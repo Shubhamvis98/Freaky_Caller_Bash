@@ -74,6 +74,15 @@ check_root
 
 source config
 
+#Check Mobile Number
+if [ ${#PH_NO} != 10 ]
+then
+	echo -e "${RED}ERROR: ${RESET}INCORRECT MOBILE NUMBER"
+	sleep 2
+	clear
+	exit
+fi
+
 echo -e "${GREEN}Number to call:${RESET} ${PH_NO}"
 echo 
 echo -ne "${BLUE}[?] ENTER NUMBER OF CALLS:${RESET} "
