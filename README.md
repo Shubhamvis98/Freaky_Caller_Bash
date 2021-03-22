@@ -24,5 +24,5 @@ INSTRUCTION:
 
 [!] No need to stare at your phone
 
-That's it, it will automatically make calls to the number that is putted on config file
+That's it, it will automatically make calls to the number that you put in the config file.
 
