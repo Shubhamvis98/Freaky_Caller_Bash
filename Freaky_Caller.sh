@@ -120,6 +120,7 @@ echo
 sleep 1
 x=$(( $x + 1 ))
 sleep ${C_INT}
+input keyevent 6
 done
 #LOOP END
 
